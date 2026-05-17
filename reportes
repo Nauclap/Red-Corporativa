@@ -1,9 +1,0 @@
-uuid,fecha,tipo,abuso_sexual
-rep001,2025-04-02,maltrato,FALSE
-rep002,2025-04-04,persecución,FALSE
-rep003,2025-04-05,discriminación,TRUE
-rep004,2025-04-07,entorpecimiento,FALSE
-rep005,2025-04-08,inequidad,FALSE
-rep006,2025-04-09,desprotección,FALSE
-rep007,2025-04-10,maltrato,TRUE
-rep008,2025-04-11,discriminación,FALSE
